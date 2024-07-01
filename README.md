@@ -4,7 +4,10 @@ This project is a bot designed to automate commenting on the Pump.fun platform. 
 
 
 
-https://github.com/bigmovers/pumpfun-comment-bot/assets/165174061/8b4dec49-69d2-42f1-bf73-d69f11335082
+
+https://github.com/bigmovers/pumpfun-comment-bot/assets/165174061/f20ccc2a-173d-4e6a-bd5f-5069aa46c0aa
+
+
 
 
 
