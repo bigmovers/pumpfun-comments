@@ -28,6 +28,9 @@ https://github.com/bigmovers/pumpfun-comment-bot/assets/165174061/f20ccc2a-173d-
 
 ## Features
 
-- **Spammer Mode**: Automatically generate and post repetitive or pre-defined comments to create hype around a token.
-- **Real Human Chat Mode**: Simulate real human interactions by generating varied and contextually appropriate replies to keep the conversation going.
+All modes work of a predefined list of comments.txt
+
+- **Random Wallets Mode**: Automatically generate new keypairs and comment with specified delay on token.
+- **User Wallets Mode**: Automatically generate new keypairs, create their profile(name, bio, coins held), and comment with specified delay on token
+- **Like Mode**: Like comments on a token with predefined filters.
 
