@@ -14,17 +14,6 @@ https://github.com/bigmovers/pumpfun-comment-bot/assets/165174061/f20ccc2a-173d-
 
 **TELEGRAM** for contact & **POC**(Proof of Concept): [@benorizz0](https://t.me/benorizz0)
 
-**THREE AVAILABLE VERSIONS:**
-1. JITO Volume Maker
-2. Non-JITO Volume Maker(lower fees)
-3. Natural Volume Maker(JITO)
-
-**DESCRIPTIONS FOR EACH VERSION ->**
-1. Spams up to 10 swaps per second(you can set a higher delay) - extremly fast  (10 SOL)
-2. Does 1-2 txs per second, pretty slow.  (10 SOL)
-3. Buys random SOL amount (min/max) with random delay(min/max). Each buy happens from a different keypair. Option to sell all wallets or individual wallets (20 SOL)
-
-   
 
 **Other tools**
 - [Solana Volume Bot](https://github.com/bigmovers/solana-volume-bot)
