@@ -3,6 +3,12 @@
 This project is a bot designed to automate commenting on the Pump.fun platform. It has two main functions: a spammer mode and a real human chat mode. The goal is to make your token look hyped and keep the thread active with unlimited replies and comments.
 
 
+
+https://github.com/bigmovers/pumpfun-comment-bot/assets/165174061/8b4dec49-69d2-42f1-bf73-d69f11335082
+
+
+
+
 **TELEGRAM** for contact & **POC**(Proof of Concept): [@benorizz0](https://t.me/benorizz0)
 
 **THREE AVAILABLE VERSIONS:**
